@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Israel Fernand 👋
 
-<!--
-**IsraelFernand/IsraelFernand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at [42Málaga]  
+🌱 Currently learning: [Technologies or Languages]  
+💼 Looking for: [Opportunities, collaborations, etc.]  
+📫 How to reach me: [israelfernand.mp@gmail.com]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- **Languages**: [JavaScript, Python, etc.]
+- **Frameworks**: [React, Django, etc.]
+- **Tools**: [Git, Docker, etc.]
+
+---
+
+## 📊 GitHub Stats
+
+![Israel Fernand GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsraelFernand&show_icons=true&theme=dark)
+
+---
+
+## 🌟 Achievements
+
+- [42 Cursus Progress](https://profile.intra.42.fr/users/israelfe)
