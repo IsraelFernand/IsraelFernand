@@ -12,6 +12,7 @@
 - **Languages**: [JavaScript, Python, etc.]
 - **Frameworks**: [React, Django, etc.]
 - **Tools**: [Git, Docker, etc.]
+- **Tools NoCode**: [ Make, N8N, Zapier]
 
 ---
 
