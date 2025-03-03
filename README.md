@@ -1,7 +1,7 @@
 # Hi, I'm Israel Fernand 👋
 
 🎓 I'm a student at [ 42Málaga & UNIR (Universidad Internacional de la Rioja ]  
-🌱 Currently learning: [Technologies or Languages]  
+🌱 Currently learning: [Inteligencia Artificial]  
 💼 Looking for: [Opportunities, collaborations, etc.]  
 📫 How to reach me: [israelfernand.mp@gmail.com]
 
